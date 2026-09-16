@@ -179,8 +179,4 @@ Monster Hunter Rise and all related trademarks belong to Capcom.
 
 This is an unofficial fan-made mod and is not affiliated with or endorsed by Capcom.
 
-## License
-
-No license has been selected for this repository yet.
-
-If you want other people to freely use, modify and redistribute the source while keeping attribution and the license notice, the **MIT License** is a simple choice.
+cuteling 228
